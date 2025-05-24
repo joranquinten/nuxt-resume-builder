@@ -1,0 +1,20 @@
+{
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "email": "john.doe@example.com",
+    "photo": "/profile.png",
+    "website": "https://johndoe.dev",
+    "github": "https://github.com/johndoe",
+    "linkedin": "https://www.linkedin.com/in/johndoe/",
+    "phone": "(123) 456-7890",
+    "location": "San Francisco, CA",
+    "quote": "Code is like humor. When you have to explain it, it’s bad.",
+    "summary": "Passionate software engineer with over 5 years of experience in building web applications. Proficient in JavaScript and modern frameworks.",
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Vue.js",
+        "Node.js",
+        "GraphQL"
+    ]
+}
